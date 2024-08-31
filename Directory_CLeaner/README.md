@@ -10,7 +10,6 @@ This Bash script helps you clean up files in a directory that are older than a s
 - [How It Works](#How-It-Works)
 - [Example Output](#Example-Output)
 - [Notes](#Notes)
-- [Contact](#Contact)
 
 ## 📋 Features
 
@@ -65,3 +64,8 @@ Enter your choice: 2
 
 Enter the number of the file to delete (or press Enter to exit):  
 Valid numbers are 1 to 2
+
+## ⚠️ Notes
+
+- Ensure you have the necessary permissions to delete files in the specified directory.
+- Use with caution to avoid accidental data loss.
